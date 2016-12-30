@@ -16,6 +16,9 @@ App Template Directory     |  ${PortpolioWebsite}/server/virtualEnvironment/${AP
 
 
 Client[React+Flux] + Server[Django] + DB[MongoDB]
+#pip install list
+1. pip install mysqlclient
+
 
 #Configuration
 설정 중요 파일
@@ -33,5 +36,5 @@ Client[React+Flux] + Server[Django] + DB[MongoDB]
 5. [Flux web example(.feat Facebook)](https://github.com/facebook/flux/tree/master/examples/flux-todomvc/)
 6. [MongoDB Installation on CentOS](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-red-hat/)
 7. [MongoDB setup on django project](http://django-mongodb-engine.readthedocs.io/en/latest/topics/setup.html)
-8. [python3 pdbc ](https://dev.mysql.com/downloads/file/?id=467791)
+8. [python3 jdbcSetup](https://dev.mysql.com/downloads/file/?id=467791)
 9. [NginX](http://ohgyun.com/478)

@@ -20,7 +20,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/1.9/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '%(jf7#bziauxtl@j#s8$7=^-!4)oh2xu-4oouf2%f^18xdsvcr'
+SECRET_KEY = 'o_^1!kmqgflf8z$+3#!k+2^$3_12t6bafnvzbjs-mxlnz#r1z1'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -80,10 +80,15 @@ DATABASES = {
         'NAME': 'portpolio',
         'USER': 'dydwls121200',
         'PASSWORD': 'dydrkf45',
-        'HOST': 'likemilk.fun25.co.kr',   # Or an IP Address that your DB is hosted on
-        'PORT': '15406',
+        'HOST': '211.239.124.228',
+        # Or an IP Address that your DB is hosted on
+        'PORT': '15406'
     }
 }
+
+
+
+
 
 
 # Password validation
