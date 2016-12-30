@@ -1,4 +1,4 @@
-#!c:\workspace\djangoworkspace\portpoliowebsite\server\venv\scripts\python3.exe
+#!c:\workspace\djangoworkspace\portpoliowebsite\server\venv\scripts\python.exe
 from django.core import management
 
 if __name__ == "__main__":
