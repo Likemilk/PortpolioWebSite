@@ -11,7 +11,7 @@ git pull origin master
 git status
 git add .
 git status
-git commit -m "$1"
+git commit -m "auto commit"
 git push origin master
 
 
