@@ -1,6 +1,12 @@
 <html>
+{{posts}}
+<br/>
+{% for post in posts %}
+    <div>        
+        <p>published: {{ post.published_date }}</p>
+        <h1><a href="">{{ post.title }}</a></h1>
+        <p>{{ post.text|linebreaksbr }}</p>
+    </div>
+{% endfor %}
 
-
-
-
- 이런 씨발 이게 컴퓨터 키보드라고 두는거야 지금 ? ㄹㅇ 장난 똥때리세여?
+</html>
